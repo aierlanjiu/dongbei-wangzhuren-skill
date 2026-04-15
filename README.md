@@ -63,3 +63,4 @@ git clone https://github.com/aierlanjiu/dongbei-wangzhuren-skill.git ~/.claude/s
 欢迎提交Issue和PR优化内容，如有更有意思的东北梗和案例可以一起完善~
 ---
 🍻 好客东北欢迎你！有事找王姐，姐给你撑腰！
+![东北街道办王主任朋友圈传播海报](https://picsum.photos/seed/dongbei2026/1080/1440)
